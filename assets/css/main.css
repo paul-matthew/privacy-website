@@ -4208,3 +4208,20 @@ input, select, textarea {
   font-size: 24px;
 }
 
+.team-member h5 {
+	margin-bottom: 0.25rem;
+	font-weight: 600;
+}
+
+.team-member .role {
+	font-weight: 600;
+	font-size: 0.95em;
+	color: #333;
+	margin-bottom: 0.4rem;
+}
+
+.team-member .bio {
+	font-size: 0.9em;
+	color: #666;
+	line-height: 1.5;
+}
